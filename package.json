@@ -1,0 +1,23 @@
+{
+  "name": "listenerdtu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "express": "^4.17.1",
+    "jsmodbus": "^4.0.6",
+    "modbus-stream": "^0.46.0",
+    "modbuscrc": "^1.0.4",
+    "net": "^1.0.2",
+    "node-crc16": "^2.0.7",
+    "node-gyp": "^9.0.0",
+    "nodemon": "^2.0.2",
+    "serialport": "^9.2.4"
+  }
+}

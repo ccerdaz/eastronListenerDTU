@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1,
+        "funcion": 4,
+        "campo": "V1",
+        "nombre": "Voltaje #1",
+        "direccion": [
+            0,
+            0
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 2,
+        "funcion": 4,
+        "campo": "ActivePower1",
+        "nombre": "ActivePower1",
+        "direccion": [
+            0,
+            12
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "funcion": 4,
+        "campo": "ActivePower3",
+        "nombre": "ActivePower3",
+        "direccion": [
+            0,
+            16
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 4,
+        "funcion": 4,
+        "campo": "TotalSystemPower",
+        "nombre": "TotalSystemPower",
+        "direccion": [
+            0,
+            52
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+
+    {
+        "id": 5,
+        "funcion": 4,
+        "campo": "TotalImport",
+        "nombre": "TotalImport",
+        "direccion": [
+            0,
+            72
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 6,
+        "funcion": 4,
+        "campo": "TotalExport",
+        "nombre": "TotalExport",
+        "direccion": [
+            0,
+            74
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 7,
+        "funcion": 4,
+        "campo": "TotalKWH",
+        "nombre": "TotalKWH",
+        "direccion": [
+            1,
+            86
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 8,
+        "funcion": 4,
+        "campo": "L1Import",
+        "nombre": "L1Import",
+        "direccion": [
+            1,
+            90
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 9,
+        "funcion": 4,
+        "campo": "L1Export",
+        "nombre": "L1Export",
+        "direccion": [
+            1,
+            96
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 11,
+        "funcion": 4,
+        "campo": "ReseteableTotalActiveEnergy",
+        "nombre": "ReseteableTotalActiveEnergy",
+        "direccion": [
+            1,
+            128
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 12,
+        "funcion": 4,
+        "campo": "ReseteableImportActiveEnergy",
+        "nombre": "ReseteableImportActiveEnergy",
+        "direccion": [
+            1,
+            132
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 13,
+        "funcion": 4,
+        "campo": "ReseteableExportActiveEnergy",
+        "nombre": "ReseteableExportActiveEnergy",
+        "direccion": [
+            1,
+            134
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 15,
+        "funcion": 3,
+        "campo": "SerialNumber",
+        "nombre": "SerialNumber",
+        "direccion": [
+            252,
+            0
+        ],
+        "numberOfPoints": [
+            0,
+            2
+        ],
+        "largo": [
+            0,
+            4
+        ]
+    },
+    {
+        "id": 100,
+        "nombre": "fin"
+    }
+]

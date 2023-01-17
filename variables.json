@@ -1,0 +1,5 @@
+{
+    "TiempoMuestreo": 15000,
+    "TiempoEntreConsultas": 1000,
+    "rutaApi": "http://186.64.121.168:2055/"
+}
